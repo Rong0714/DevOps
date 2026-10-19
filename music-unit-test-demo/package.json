@@ -1,0 +1,13 @@
+{
+  "name": "music-unit-test-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple login and MP3 library for learning JavaScript unit testing",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

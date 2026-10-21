@@ -1,3 +1,6 @@
+
+// Whole lot of shit that was generated, main use for this is runs the backend server and processes requests
+
 const http = require('node:http');
 const fs = require('node:fs/promises');
 const path = require('node:path');

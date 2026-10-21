@@ -1,3 +1,6 @@
+
+// This page makes buttons work and communicates with the server
+
 const loginSection = document.getElementById('loginSection');
 const musicSection = document.getElementById('musicSection');
 const message = document.getElementById('message');
